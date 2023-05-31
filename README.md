@@ -6,4 +6,4 @@ Und hier die GUI zum Nutzen der Sprachdatei: [Github](https://github.com/Tiger14
 |Stimme|fertig|unfertig|Epochen
 |---|---|---|
 |[Hans Paetsch](https://github.com/haunetal1990/AI_RVC_Stimmen/releases/tag/HansPaetsch)|<p align="center">:white_check_mark:</p>||500|
-|SpongeBozz 2015 Stimme (Sun Diego)||<p align="center">:x:</p>||
+|SpongeBozz 2015 Stimme (Sun Diego)||<p align="center">:x:</p>|||
