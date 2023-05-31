@@ -5,5 +5,5 @@ Und hier die GUI zum Nutzen der Sprachdatei: [Github](https://github.com/Tiger14
 
 |Stimme|fertig|unfertig|
 |---|---|---|
-|Hans Paetsch|:white_check_mark:||
-|SpongeBozz 2015 Stimme (Sun Diego)||> :x:|
+|Hans Paetsch| :white_check_mark:||
+|SpongeBozz 2015 Stimme (Sun Diego)|| :x:|
