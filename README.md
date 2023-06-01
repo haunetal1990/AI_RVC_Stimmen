@@ -1,7 +1,7 @@
 # Deutsche Stimmen für RVC
 
-Hier noch einmal der Link für das selbst erstellen von RVC Sprachdateien: [Github](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI).
-Und hier die GUI zum Nutzen der Sprachdatei: [Github](https://github.com/Tiger14n/RVC-GUI)
+Hier noch einmal der Link, um die RVC-Sprachdateien selbst zu erstellen: [Github](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI).
+Und hier ist die GUI, um die Sprachdatei zu benutzen: [Github](https://github.com/Tiger14n/RVC-GUI)
 
 |Stimme|fertig|unfertig|Epochen|Daten in Minuten|
 |---|---|---|---|---|
